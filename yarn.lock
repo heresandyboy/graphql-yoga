@@ -1790,6 +1790,10 @@ graphql-middleware@3.0.1:
   dependencies:
     graphql-tools "^4.0.4"
 
+graphql-playground-html@1.6.11:
+  version "1.6.11"
+  resolved "https://registry.yarnpkg.com/graphql-playground-html/-/graphql-playground-html-1.6.11.tgz#a4e40b3d43527270722cacf7a96811c7806eb22a"
+
 graphql-playground-html@1.6.4:
   version "1.6.4"
   resolved "https://registry.yarnpkg.com/graphql-playground-html/-/graphql-playground-html-1.6.4.tgz#be7c5a6213d67aeedf03d90b7e7d55fec4d42212"
@@ -1802,11 +1806,11 @@ graphql-playground-middleware-express@1.7.6:
   dependencies:
     graphql-playground-html "1.6.4"
 
-graphql-playground-middleware-lambda@1.7.6:
-  version "1.7.6"
-  resolved "https://registry.yarnpkg.com/graphql-playground-middleware-lambda/-/graphql-playground-middleware-lambda-1.7.6.tgz#03aa4e3592144f4eb390a216f09b39f6b29f12d2"
+graphql-playground-middleware-lambda@1.7.10:
+  version "1.7.10"
+  resolved "https://registry.yarnpkg.com/graphql-playground-middleware-lambda/-/graphql-playground-middleware-lambda-1.7.10.tgz#812eb935b372a7fc7ce602b114604940e2e7f9f4"
   dependencies:
-    graphql-playground-html "1.6.4"
+    graphql-playground-html "1.6.11"
 
 graphql-request@^1.5.0:
   version "1.8.2"
